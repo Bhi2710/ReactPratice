@@ -1,4 +1,13 @@
 # How to send data from parent to child & child to parent using context api.
+#React
+#Context Api
+#context provider (value)
+#createContext
+#Prop Drilling
+#UseState hooks
+#useContext hooks
+these are the think which help me to build this project
+
 
 # Getting Started with Create React App
 
