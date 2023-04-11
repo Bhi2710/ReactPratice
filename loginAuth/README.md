@@ -3,6 +3,17 @@ In this project use Components, how to create context and access that context, w
 
 # For Login Username is Abhi/admin and password Abhi@111/admin@111 respectively 
 
+## How to send data from parent to child & child to parent using context api.
+
+#React
+#Context Api
+#context provider (value)
+#createContext
+#Prop Drilling
+#UseState hooks
+#useContext hooks
+these are the think which help me to build this project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
