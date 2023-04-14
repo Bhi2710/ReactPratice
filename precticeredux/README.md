@@ -1,3 +1,41 @@
+# This login page app using context api.
+In this project use Components, how to create context and access that context, work with useContext and provider. 
+
+# For Login Username is Abhi/admin and password Abhi@123/admin@123 respectively 
+
+## How to send data from parent to child & child to parent using context api.
+
+#React
+#Context Api
+#context provider (value)
+#createContext
+#Prop Drilling
+#UseState hooks
+#useContext hooks
+these are the think which help me to build this project
+
+
+# Ruting in React with help of react router-dom, following thing are use to build this project. 
+
+# Default Components of react-router-dom
+# BrowserRouter
+# Routes
+# Route
+# Navigate
+# Link
+# Outlet
+
+# Default hooks of react-router-dom
+# useparams()
+# useNavigate()
+
+# React hooks
+# useState
+# useEffect
+
+
+# Nested Routing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
