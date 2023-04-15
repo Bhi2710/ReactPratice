@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.buttons button{
+  margin-top: 3rem;
+ padding: 4px 15px;
+ border: none;
+ background-color: lightblue;
+ font-weight: bold;
+ font-size: 20px;
+ margin-left: 10px;
+}
+
