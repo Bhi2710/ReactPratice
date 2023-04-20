@@ -1,3 +1,20 @@
+# Redux in React with help of react router-dom, and react redux and redux/toolkit following thing are use to build this project. 
+
+# Default Components of react-router-dom
+# BrowserRouter
+# Routes
+# Route
+# Link
+
+# Default hooks of react-router-dom
+
+# React hooks
+# useState
+# useEffect
+# useDispatch
+# useSelector
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
