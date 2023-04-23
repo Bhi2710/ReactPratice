@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Main_container img{
+  width: 100%;
+  height: calc(100vh - 44px);
+  position: relative;
+}
+
+.text{
+  position: absolute;
+  top: 40px;
+  left: 45%;
+  text-align: center;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.text p:nth-child(1){
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.text p:nth-child(2){
+  color: white;
+}
+
+.text p:nth-child(2) span{
+  color: red;
+}
