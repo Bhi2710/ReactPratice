@@ -1,0 +1,32 @@
+.nav{
+    background-color: rgb(175, 175, 175);
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+    height: 60px;
+  }
+
+  .title h3{
+    color: #555555;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+  .menu a{
+    color: black;
+    text-decoration: none;
+    margin-left: 40px;
+    font-weight: bold;
+  }
+
+  .menu a:nth-child(1){
+    color: blue;
+  }
+
+  .images img{
+    width: 20px;
+    height: 20px;
+    margin: 0px 5px;
+  }
